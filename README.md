@@ -1,21 +1,17 @@
-## Hi there 👋
-
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1035981275196047401/1082383442718773318/1671189244148.jpg" width=200 />
-</div>
 
 <div id="hey" align="center">
   <h1>
-    Hi!
-    I'm Ali Shan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
+    Hola!
+    Soy Mateo Smicht
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:alishandev@proton.me">
+  <a href="mailto:mateosmicht13@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
+  <!--
   <a href="https://t.me/al3shan">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -24,37 +20,31 @@
   </a>
   <a href="https://twitter.com/alishxn_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> 
 </div>
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
+  -->
 </div>
 
 
-## :man_technologist: About Me:
-As a seasoned web developer with expertise in HTML, CSS, JavaScript, React, Git, and Jest testing, I have honed my skills through hands-on experience in various organizations. Having worked as a web developer in two companies, I bring a wealth of knowledge and practical insights to my current role as a blockchain developer. In my current position, I am working on cutting-edge blockchain technologies like Cardano and Algorand Defi Projects, which has allowed me to expand my skill set and stay at the forefront of the latest advancements in the industry. I am passionate about using my skills to create innovative solutions that drive business growth and help organizations achieve their objectives.
+## :man_technologist: Sobre Mi:
+Soy un estudiante universitario cursando la carrera de Licenciatura en Sistemas, con 23 años de edad. Me considero una persona apasionada por desarrollar soluciones dinámicas y de alta calidad, que optimicen y mejoren significativamente la experiencia del usuario. Mi formación académica y práctica incluye un sólido conocimiento en lenguajes de programación como Java y Python.
 
-As a 19-year-old university student studying Software Engineering, I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated software developer, I would love to connect and discuss potential opportunities!
+Estoy constantemente en busca de oportunidades para expandir mis conocimientos y perfeccionar mis habilidades en el ámbito de la programación y desarrollo de software. Además, me caracterizo por ser proactivo, con una fuerte orientación a la resolución de problemas y un compromiso constante con el aprendizaje y la innovación.
 
-- 🔭 I’m currently working on DeFi Project on Cardano.
-- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols, Testing, Solidity etc.
-- 💬 ping me about anything blockchain related :smile:.
-- 📫 How to reach me: email me [alishandev@proton.me](mailto:alishandev@proton.me), you can also contact me from my [website](https://al3sha9.github.io/portfolio/).
+Mi experiencia abarca proyectos universitarios y personales en los cuales he aplicado principios de programación orientada a objetos, desarrollo ágil y pruebas unitarias, siempre buscando implementar las mejores prácticas en el desarrollo de software. Soy capaz de adaptarme rápidamente a nuevas tecnologías y entornos de trabajo, y estoy siempre dispuesto a enfrentar nuevos desafíos que me permitan crecer profesional y personalmente.
+
+Mi objetivo a corto plazo es continuar desarrollando mis competencias técnicas y contribuir de manera significativa a proyectos que generen un impacto positivo. A largo plazo, aspiro a desempeñar un rol de liderazgo en el desarrollo de soluciones tecnológicas innovadoras.
+
+- 📫 Contacto: [mateosmicht13@gmail.com](mailto:mateosmicht13@gmail.com)
 
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://skillicons.dev/icons?i=java,py,git,css,discord,github,html,js&perline=14" />
+ 
 </div>
  
 
