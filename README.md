@@ -50,17 +50,11 @@ Mi objetivo a corto plazo es continuar desarrollando mis competencias técnicas 
 
   
 ## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=al3sha9&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3sha9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3sha9&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
-
 
 ------
 
-Credit: [al3sha9](https://github.com/al3sha9)
 
-Last Edited on: 3/7/2023
