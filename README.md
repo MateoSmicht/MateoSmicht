@@ -36,7 +36,6 @@ Estoy constantemente en busca de oportunidades para expandir mis conocimientos y
 
 Mi experiencia abarca proyectos universitarios y personales en los cuales he aplicado principios de programación orientada a objetos, desarrollo ágil y pruebas unitarias, siempre buscando implementar las mejores prácticas en el desarrollo de software. Soy capaz de adaptarme rápidamente a nuevas tecnologías y entornos de trabajo, y estoy siempre dispuesto a enfrentar nuevos desafíos que me permitan crecer profesional y personalmente.
 
-Mi objetivo a corto plazo es continuar desarrollando mis competencias técnicas y contribuir de manera significativa a proyectos que generen un impacto positivo. A largo plazo, aspiro a desempeñar un rol de liderazgo en el desarrollo de soluciones tecnológicas innovadoras.
 
 - 📫 Contacto: [mateosmicht13@gmail.com](mailto:mateosmicht13@gmail.com)
 
