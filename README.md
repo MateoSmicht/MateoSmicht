@@ -30,14 +30,28 @@
 
 
 ## :man_technologist: Sobre Mi:
-Soy un estudiante universitario cursando la carrera de Licenciatura en Sistemas, con 23 años de edad. Me considero una persona apasionada por desarrollar soluciones dinámicas y de alta calidad, que optimicen y mejoren significativamente la experiencia del usuario. Mi formación académica y práctica incluye un sólido conocimiento en lenguajes de programación como Java y Python.
 
-Estoy constantemente en busca de oportunidades para expandir mis conocimientos y perfeccionar mis habilidades en el ámbito de la programación y desarrollo de software. Además, me caracterizo por ser proactivo, con una fuerte orientación a la resolución de problemas y un compromiso constante con el aprendizaje y la innovación.
+**Estudiante de Licenciatura en Sistemas | Java Developer**
 
-Mi experiencia abarca proyectos universitarios y personales en los cuales he aplicado principios de programación orientada a objetos, desarrollo ágil y pruebas unitarias, siempre buscando implementar las mejores prácticas en el desarrollo de software. Soy capaz de adaptarme rápidamente a nuevas tecnologías y entornos de trabajo, y estoy siempre dispuesto a enfrentar nuevos desafíos que me permitan crecer profesional y personalmente.
+Más que escribir código, me apasiona crear **soluciones robustas**. Me enfoco en la calidad del software, aplicando patrones de diseño, pruebas unitarias y metodologías ágiles para resolver problemas reales.
 
+🔭 **Actualmente trabajando en:**
+* Profundización de arquitecturas en Java (MVC, Spring).
+* Algoritmos de optimización.
 
-- 📫 Contacto: [mateosmicht13@gmail.com](mailto:mateosmicht13@gmail.com)
+🛠 **Mi Stack Técnico:**
+* **Lenguajes:** Java ☕, Python 🐍
+* **Enfoque:** OOP, Clean Code, Unit Testing.
+* **Herramientas:** Git, SQL, Eclipse/IntelliJ.
+
+⚡ **Sobre mí:**
+* 24 años.
+* Siempre buscando optimizar la experiencia de usuario.
+* Fanático de la resolución lógica de problemas.
+
+📫 **¡Conectemos!**
+- www.linkedin.com/in/mateosmicht
+- [mateosmicht13@gmail.com](mailto:mateosmicht13@gmail.com)
 
 
 ## :hammer_and_wrench: Languages and Tools:
